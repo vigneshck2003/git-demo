@@ -1,6 +1,3 @@
 # git-demo
 This is a demo repo
-<br>
-Repository
-<br>
-Hello Everyone
+Eat sleep code repeat
